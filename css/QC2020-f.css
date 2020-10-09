@@ -1,1 +1,153 @@
-/* No CSS *//*# sourceMappingURL=qc2020-f.css.map */
+.alert {
+  position: relative;
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+}
+
+.alert-heading {
+  color: inherit;
+}
+
+.alert-link {
+  font-weight: 700;
+}
+
+.alert-dismissible {
+  padding-right: 4rem;
+}
+
+.alert-dismissible .close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 0.75rem 1.25rem;
+  color: inherit;
+}
+
+.alert-mint {
+  color: #343a40;
+  background-color: #c1dad4;
+  border-color: #c1dad4;
+}
+
+.alert-mint hr {
+  border-top-color: #b1d0c9;
+}
+
+.alert-mint .alert-link {
+  color: #81b4a8;
+}
+
+.alert-vanilla {
+  color: #343a40;
+  background-color: #f6ecd1;
+  border-color: #f6ecd1;
+}
+
+.alert-vanilla hr {
+  border-top-color: #f2e3bc;
+}
+
+.alert-vanilla .alert-link {
+  color: #e5c97c;
+}
+
+.alert-grape {
+  color: #343a40;
+  background-color: #9d86be;
+  border-color: #9d86be;
+}
+
+.alert-grape hr {
+  border-top-color: #9075b5;
+}
+
+.alert-grape .alert-link {
+  color: #694e90;
+}
+
+.alert-redbean {
+  color: #343a40;
+  background-color: #dccfd9;
+  border-color: #dccfd9;
+}
+
+.alert-redbean hr {
+  border-top-color: #d1c0cd;
+}
+
+.alert-redbean .alert-link {
+  color: #b194aa;
+}
+
+.alert-sliver {
+  color: #343a40;
+  background-color: #aaaba6;
+  border-color: #aaaba6;
+}
+
+.alert-sliver hr {
+  border-top-color: #9d9f99;
+}
+
+.alert-sliver .alert-link {
+  color: #787972;
+}
+
+.alert-peach {
+  color: #343a40;
+  background-color: #eec2d9;
+  border-color: #eec2d9;
+}
+
+.alert-peach hr {
+  border-top-color: #e8aecd;
+}
+
+.alert-peach .alert-link {
+  color: #d872a7;
+}
+
+.alert-chili {
+  color: #343a40;
+  background-color: #ff8575;
+  border-color: #ff8575;
+}
+
+.alert-chili hr {
+  border-top-color: #ff6e5c;
+}
+
+.alert-chili .alert-link {
+  color: #ff2b0f;
+}
+
+.alert-white {
+  color: #343a40;
+  background-color: white;
+  border-color: white;
+}
+
+.alert-white hr {
+  border-top-color: #f2f2f2;
+}
+
+.alert-white .alert-link {
+  color: #cccccc;
+}
+
+.alert-dark {
+  color: #343a40;
+  background-color: #343a40;
+  border-color: #343a40;
+}
+
+.alert-dark hr {
+  border-top-color: #292d32;
+}
+
+.alert-dark .alert-link {
+  color: #060708;
+}
+/*# sourceMappingURL=qc2020-f.css.map */

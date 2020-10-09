@@ -1,0 +1,19 @@
+$border-radius: 0.25rem !default;
+$border-width: 1px !default;
+
+$font-size-base: 1rem !default;
+$font-weight-bold: 700 !default;
+$alert-link-font-weight: $font-weight-bold !default;
+
+$alert-bg-level: -10 !default;
+$alert-border-level: -9 !default;
+$alert-color-level: 6 !default;
+
+$alert-padding-y: 0.75rem !default;
+$alert-padding-x: 1.25rem !default;
+$alert-margin-bottom: 1rem !default;
+
+$alert-border-width: $border-width !default;
+$alert-border-radius: $border-radius !default;
+
+$close-font-size: $font-size-base * 1.5 !default;

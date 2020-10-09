@@ -1,1 +1,24 @@
+//color
+$mint: #c1dad4 !default;
+$vanilla: #f6ecd1 !default;
+$grape: #9d86be !default;
+$redbean: #dccfd9 !default;
+$sliver: #aaaba6 !default;
+$peach: #eec2d9 !default;
+$chili: #ff8575 !default;
+$white: rgb(255, 255, 255) !default;
+$dark: rgb(52, 58, 64) !default;
+$black: #000000 !default;
 
+//color array
+$theme-colors: (
+  'mint': $mint,
+  'vanilla': $vanilla,
+  'grape': $grape,
+  'redbean': $redbean,
+  'sliver': $sliver,
+  'peach': $peach,
+  'chili': $chili,
+  'white': $white,
+  'dark': $dark,
+);
